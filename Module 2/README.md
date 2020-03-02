@@ -9,6 +9,8 @@ In this module you will be introduced to GitHub. This module will cover:
 * The GitHub Workflow
 * Resolving Merge Conflicts
 
+### MrZacSmith aka. Zac Smith
+
 ## Lessons
 
 **All assignment files can be found at the top of the page.**
